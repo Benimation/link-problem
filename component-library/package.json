@@ -1,0 +1,11 @@
+{
+  "name": "component-library",
+  "exports": {
+    "./components/": "./src/components/"
+  },
+  "version": "0.0.1",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
